@@ -12,3 +12,7 @@
 ## DELETE Requests
 
 - /api/v1/articles/:id
+
+## PUT Requests
+
+- /api/v1/articles/:id
